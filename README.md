@@ -1,4 +1,1 @@
-# shafiel.resume
-#04-19-26
-changed stats from 200+ cases to 80% manual tasks automated
-changed background for darker color
+This was a prjoect using Claude Design. I uploaded my resume and gave the prompt of telling it to match the Apple flow and its formatting as close as possible.
